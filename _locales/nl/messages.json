@@ -1,0 +1,41 @@
+{
+    "extension_description": {
+        "message": "Dit is een donker onderwerp voor alle sites die ik bezoek. Bespaar uw batterij en zorg voor uw ogen met deze fantastische toepassing, gebruik de donkere modus om te bladeren en de beste prestaties van uw apparaat te krijgen."
+    },
+    "extension_title": {
+        "message": "Donkere modus"
+    },
+    "on": {
+        "message": "Activeer"
+    },
+    "off": {
+        "message": "Deactiveer"
+    },
+    "toggle_extension": {
+        "message": "Alternatieve uitbreiding"
+    },
+    "automation": {
+        "message": "Automatiseer"
+    },
+    "set_active_hours": {
+        "message": "Stel actieve uren in"
+    },
+    "set_start_hour":{
+        "message": "Van"
+    },
+    "set_stop_hour":{
+        "message": "Naar"
+    },
+    "mode": {
+        "message": "Modus"
+    },
+    "dark": {
+        "message": "Donker"
+    },
+    "light": {
+        "message": "Natuurlijk"
+    },
+    "store_listing": {
+        "message": "U zult in staat zijn om te genieten van dit uitsterven volledig gratis, en het genereren van de donkere modus zo vaak als u wilt in alle sites. Dark Mode keert heldere kleuren om, waardoor ze contrasterend en gemakkelijk te lezen zijn, en het zorgt ook voor de levensduur van uw apparaat.\n\nDe Donkere Modus geeft geen reclame weer en stuurt nergens gebruikersinformatie naartoe. Het is volledig open source https://darkmodeextension.com.\n\nDeactiveer soortgelijke extensies voordat u ze installeert. Veel plezier bij het kijken!"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "extension_description": {
+        "message": "Este es un tema oscuro para todos los sitios que visite. Ahorre batería y cuide su vista con esta fantástica aplicación, utilice el modo oscuro para navegar y conseguir el mejor rendimiento de su dispositivo."
+    },
+    "extension_title": {
+        "message": "Modo Oscuro"
+    },
+    "on": {
+        "message": "Activar"
+    },
+    "off": {
+        "message": "Desactivar"
+    },
+    "toggle_extension": {
+        "message": "Alternar extensión"
+    },
+    "automation": {
+        "message": "Automatizar"
+    },
+    "set_active_hours": {
+        "message": "Establece horas activas"
+    },
+    "set_start_hour":{
+        "message": "Desde"
+    },
+    "set_stop_hour":{
+        "message": "Hasta"
+    },
+    "mode": {
+        "message": "Modo"
+    },
+    "dark": {
+        "message": "Oscuro"
+    },
+    "light": {
+        "message": "Claro"
+    },
+    "store_listing": {
+        "message": "Usted podrá disfrutar de esta extinción totalmente gratis, y  generar el modo oscuro cuantas veces desee en todos los sitos. Modo Oscuro invierte los colores brillantes, haciéndolos contrastantes y fáciles de leer, además cuida la vida útil de su dispositivo.\n\nModo Oscuro no muestra publicidad y no envía la información del usuario a ningún lado. Es totalmente de código abierto https://darkmodeextension.com\n\nAntes de instalarlo, desactive extensiones similares. Disfrute mirando!"
+    }
+}

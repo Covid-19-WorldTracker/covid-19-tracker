@@ -1,0 +1,41 @@
+{
+    "extension_description": {
+        "message": "Jest to ciemny motyw dla wszystkich odwiedzanych witryn. Oszczędzaj baterię i obserwuj swój wzrok dzięki tej fantastycznej aplikacji, Użyj trybu ciemnego, aby nawigować i uzyskać najlepszą wydajność urządzenia."
+    },
+    "extension_title": {
+        "message": "Tryb Ciemny"
+    },
+    "on": {
+        "message": "Aktywować"
+    },
+    "off": {
+        "message": "Dezaktywować"
+    },
+    "toggle_extension": {
+        "message": "Przełącz rozszerzenie"
+    },
+    "automation": {
+        "message": "Zautomatyzować"
+    },
+    "set_active_hours": {
+        "message": "Ustaw aktywny zegar"
+    },
+    "set_start_hour":{
+        "message": "Z"
+    },
+    "set_stop_hour":{
+        "message": "Do"
+    },
+    "mode": {
+        "message": "Tryb"
+    },
+    "dark": {
+        "message": "Ciemny"
+    },
+    "light": {
+        "message": "Claro"
+    },
+    "store_listing": {
+        "message": "Będziesz cieszyć się tym wyginięciem całkowicie za darmo i generować tryb ciemny tyle razy, ile chcesz na wszystkich stronach. Tryb ciemny zmienia jasne kolory, dzięki czemu są kontrastujące i łatwe do odczytania, a także dbają o żywotność urządzenia.\n\nTryb ciemny nie wyświetla reklam ani nie wysyła informacji o użytkowniku w dowolnym miejscu. Jest całkowicie open source https://darkmodeextension.com\n\nPrzed instalacją należy wyłączyć podobne rozszerzenia. Zapraszamy do oglądania!"
+    }
+}

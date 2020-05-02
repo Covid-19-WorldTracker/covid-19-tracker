@@ -1,0 +1,41 @@
+{
+    "extension_description": {
+        "message": "Đây là một chủ đề tối cho tất cả các trang bạn truy cập. Tiết kiệm pin và chăm sóc của anh với cảnh tuyệt vời này ứng dụng, sử dụng chế độ tối để di chuyển và có được hiệu suất cao nhất của điện thoại."
+    },
+    "extension_title": {
+        "message": "Chế Độ Tối"
+    },
+    "on": {
+        "message": "Cho phép"
+    },
+    "off": {
+        "message": "Vô hiệu hóa"
+    },
+    "toggle_extension": {
+        "message": "Chuyển mở rộng"
+    },
+    "automation": {
+        "message": "Tự động"
+    },
+    "set_active_hours": {
+        "message": "Bộ Hoạt Động Giờ"
+    },
+    "set_start_hour":{
+        "message": "Từ"
+    },
+    "set_stop_hour":{
+        "message": "Lên"
+    },
+    "mode": {
+        "message": "Chế độ"
+    },
+    "dark": {
+        "message": "Tối"
+    },
+    "light": {
+        "message": "Rõ ràng"
+    },
+    "store_listing": {
+        "message": "Bạn sẽ được thưởng thức này tuyệt chủng hoàn toàn miễn phí, và tạo ra các chế độ tối nhiều lần như bạn muốn ở tất cả các trang web. Chế độ tối đảo ngược sáng, màu sắc, làm cho họ bù và dễ dàng để đọc, cũng sẽ chăm sóc của các cuộc sống của điện thoại.\n\nChế độ tối không hiển thị quảng cáo và không gửi thông tin tài khoản ở bất cứ đâu. Nó hoàn toàn nguồn mở https://darkmodeextension.com\n\nTrước khi bạn cài đặt nó, tắt mở rộng tương tự. Thích xem!"
+    }
+}

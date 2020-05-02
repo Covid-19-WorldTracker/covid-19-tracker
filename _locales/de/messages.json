@@ -1,0 +1,41 @@
+{
+    "extension_description": {
+        "message": "Dies ist ein dunkles Thema für alle Seiten, die ich besuche. Sparen Sie Ihren Akku und schonen Sie Ihre Augen mit dieser fantastischen Anwendung, verwenden Sie den Dunkelmodus zum Durchsuchen und holen Sie die beste Leistung aus Ihrem Gerät heraus."
+    },
+    "extension_title": {
+        "message": "Dunkler Modus"
+    },
+    "on": {
+        "message": "Aktivieren Sie"
+    },
+    "off": {
+        "message": "Deaktivieren Sie"
+    },
+    "toggle_extension": {
+        "message": "Alternative Verlängerung"
+    },
+    "automation": {
+        "message": "Automatisieren Sie"
+    },
+    "set_active_hours": {
+        "message": "Aktive Stunden einstellen"
+    },
+    "set_start_hour":{
+        "message": "Von"
+    },
+    "set_stop_hour":{
+        "message": "Zu"
+    },
+    "mode": {
+        "message": "Modus"
+    },
+    "dark": {
+        "message": "Dunkelheit"
+    },
+    "light": {
+        "message": "Natürlich"
+    },
+    "store_listing": {
+        "message": "Sie können diese Auslöschung völlig kostenlos genießen und den Dunkelmodus so oft Sie wollen an allen Standorten erzeugen. Der Dark-Modus kehrt helle Farben um, wodurch sie kontrastreich und leicht lesbar werden, und er sorgt auch für die Lebensdauer Ihres Geräts.\n\nDer Dunkelmodus zeigt keine Werbung an und sendet keine Benutzerinformationen an andere Stellen. Es ist vollständig quelloffen https://darkmodeextension.com\n\nDeaktivieren Sie vor der Installation ähnliche Erweiterungen. Viel Spaß beim Anschauen!"
+    }
+}

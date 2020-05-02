@@ -1,0 +1,41 @@
+{
+    "extension_description": {
+        "message": "Aceasta este o temă întunecată pentru toate site-urile pe care le vizitați. Economisiți bateria și aveți grijă de vederea dvs. cu această aplicație fantastică, utilizați modul întunecat pentru a naviga și a obține cea mai bună performanță a dispozitivului."
+    },
+    "extension_title": {
+        "message": "Modul închis"
+    },
+    "on": {
+        "message": "Activează"
+    },
+    "off": {
+        "message": "Dezactivează"
+    },
+    "toggle_extension": {
+        "message": "Comută extensia"
+    },
+    "automation": {
+        "message": "Automate"
+    },
+    "set_active_hours": {
+        "message": "Setați ore active"
+    },
+    "set_start_hour":{
+        "message": "De la"
+    },
+    "set_stop_hour":{
+        "message": "Sus."
+    },
+    "mode": {
+        "message": "Mod"
+    },
+    "dark": {
+        "message": "Întuneric"
+    },
+    "light": {
+        "message": "Liber."
+    },
+    "store_listing": {
+        "message": "Vă veți bucura de această extincție complet gratuit, și pentru a genera modul de întuneric ori de câte ori doriți la toate site-urile. Modul închis inversează culorile luminoase, făcându-le contrastante și ușor de citit, de asemenea, are grijă de viața dispozitivului.\n\nModul închis nu afișează publicitatea și nu trimite informații despre utilizator oriunde. Este complet open source https://darkmodeextension.com\n\nÎnainte de ao instala, dezactivați extensii similare. Bucurați-vă de vizionarea!"
+    }
+}

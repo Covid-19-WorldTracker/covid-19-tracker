@@ -1,0 +1,41 @@
+{
+    "extension_description": {
+        "message": "Questo è un tema scuro per tutti i siti visitati. Salva la batteria e prenditi cura della tua vista con questa fantastica app, Usa la modalità dark per navigare e ottenere le migliori prestazioni del tuo dispositivo."
+    },
+    "extension_title": {
+        "message": "Modalità Scura"
+    },
+    "on": {
+        "message": "Attivare"
+    },
+    "off": {
+        "message": "Disattivare"
+    },
+    "toggle_extension": {
+        "message": "Estensione alternativa"
+    },
+    "automation": {
+        "message": "Automatizzare"
+    },
+    "set_active_hours": {
+        "message": "Impostare le ore attive"
+    },
+    "set_start_hour":{
+        "message": "Da"
+    },
+    "set_stop_hour":{
+        "message": "A"
+    },
+    "mode": {
+        "message": "Modalità"
+    },
+    "dark": {
+        "message": "Scuro"
+    },
+    "light": {
+        "message": "Chiaro"
+    },
+    "store_listing": {
+        "message": "Potrete godere di questa estinzione totalmente gratuita e generare la modalità oscura tutte le volte che vorrete in tutti i siti. La modalità Dark Mode inverte i colori brillanti, rendendoli contrastanti e facili da leggere, e si prende cura anche della vita del vostro dispositivo.\n\nLa modalità Dark Mode non visualizza la pubblicità e non invia informazioni sull'utente da nessuna parte. E' completamente open source https://darkmodeextension.com.\n\nPrima di installarlo, disattivare le estensioni simili. Buon divertimento!"
+    }
+}

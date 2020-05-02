@@ -1,0 +1,41 @@
+{
+    "extension_description": {
+        "message": "Ini adalah tema gelap untuk semua situs yang kau kunjungi. Simpan baterai dan jaga penglihatan Anda dengan aplikasi luar biasa ini, gunakan mode gelap untuk menavigasi dan dapatkan kinerja terbaik dari perangkat Anda."
+    },
+    "extension_title": {
+        "message": "Mode Gelap"
+    },
+    "on": {
+        "message": "Aktifkan"
+    },
+    "off": {
+        "message": "Matikan"
+    },
+    "toggle_extension": {
+        "message": "Jungkitkan ekstensi"
+    },
+    "automation": {
+        "message": "Otomatis"
+    },
+    "set_active_hours": {
+        "message": "Atur Jam Aktif"
+    },
+    "set_start_hour":{
+        "message": "Dari"
+    },
+    "set_stop_hour":{
+        "message": "Naik"
+    },
+    "mode": {
+        "message": "Mode"
+    },
+    "dark": {
+        "message": "Dark"
+    },
+    "light": {
+        "message": "Hapus"
+    },
+    "store_listing": {
+        "message": "Anda akan menikmati kepunahan ini benar-benar bebas, dan menghasilkan mode gelap sebanyak yang anda inginkan di semua situs. Mode Gelap membalikkan warna terang, membuat mereka kontras dan mudah untuk dibaca, juga merawat perangkat Anda.\n\nMode gelap tidak menampilkan iklan dan tidak mengirim informasi pengguna kemanapun. Ini benar-benar sumber terbuka https://darkmodeextension.com\n\nSebelum Anda memasangnya, matikan ekstensi yang sama. Nikmati menonton!"
+    }
+}

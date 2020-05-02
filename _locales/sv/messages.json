@@ -1,0 +1,41 @@
+{
+    "extension_description": {
+        "message": "Detta är ett mörkt tema för alla webbplatser du besöker. Spara batteri och ta hand om din syn med denna fantastiska app, använd mörkt läge för att navigera och få bästa prestanda på din enhet."
+    },
+    "extension_title": {
+        "message": "Mörkt Läge"
+    },
+    "on": {
+        "message": "Aktivera"
+    },
+    "off": {
+        "message": "Inaktivera"
+    },
+    "toggle_extension": {
+        "message": "Växla förlängning"
+    },
+    "automation": {
+        "message": "Automatiserad"
+    },
+    "set_active_hours": {
+        "message": "Som Aktiv Timmar"
+    },
+    "set_start_hour":{
+        "message": "Från"
+    },
+    "set_stop_hour":{
+        "message": "Upp"
+    },
+    "mode": {
+        "message": "Läge"
+    },
+    "dark": {
+        "message": "Mörk"
+    },
+    "light": {
+        "message": "Klart"
+    },
+    "store_listing": {
+        "message": "Du kommer att njuta av denna utrotning helt gratis, och generera den mörka läget så många gånger du vill på alla platser. Mörkt läge vänder ljusa färger, vilket gör dem kontrasterande och lätta att läsa, tar också hand om enhetens liv.\n\nMörkt läge visar inte reklam och skickar inte användarinformation någonstans. Det är helt öppen källkod https://darkmodeextension.com\n\nInnan du installerar det, stäng av liknande tillägg. Njut av att titta!"
+    }
+}

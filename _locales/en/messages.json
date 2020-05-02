@@ -1,0 +1,41 @@
+{
+    "extension_description": {
+        "message": "This is a dark subject for all the sites I visit. Save your battery and take care of your eyes with this fantastic application, use the dark mode to browse and get the best performance from your device."
+    },
+    "extension_title": {
+        "message": "Dark Mode"
+    },
+    "on": {
+        "message": "Activate"
+    },
+    "off": {
+        "message": "Deactivate"
+    },
+    "toggle_extension": {
+        "message": "Alternate extension"
+    },
+    "automation": {
+        "message": "Automate"
+    },
+    "set_active_hours": {
+        "message": "Set active hours"
+    },
+    "set_start_hour":{
+        "message": "From"
+    },
+    "set_stop_hour":{
+        "message": "To"
+    },
+    "mode": {
+        "message": "Mode"
+    },
+    "dark": {
+        "message": "Dark"
+    },
+    "light": {
+        "message": "Clear"
+    },
+    "store_listing": {
+        "message": "You will be able to enjoy this extinction totally free, and generate the dark mode as many times as you wish in all the sites. Dark Mode reverses bright colors, making them contrasting and easy to read, and it also takes care of the life of your device.\n\nDark Mode does not display advertising and does not send user information anywhere. It is completely open source https://darkmodeextension.com\n\nBefore installing it, please disable similar extensions. Enjoy watching!"
+    }
+}

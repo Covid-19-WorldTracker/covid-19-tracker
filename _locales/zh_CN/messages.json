@@ -1,0 +1,41 @@
+{
+    "extension_description": {
+        "message": "这是一个黑暗的主题为您访问的所有网站。 节省电池和照顾你的视线与这个梦幻般的应用程序，使用黑暗模式来导航，并获得您的设备的最佳性能。"
+    },
+    "extension_title": {
+        "message": "暗模式"
+    },
+    "on": {
+        "message": "启用"
+    },
+    "off": {
+        "message": "禁用"
+    },
+    "toggle_extension": {
+        "message": "切换扩展"
+    },
+    "automation": {
+        "message": "自动化"
+    },
+    "set_active_hours": {
+        "message": "设置活动小时"
+    },
+    "set_start_hour":{
+        "message": "从"
+    },
+    "set_stop_hour":{
+        "message": "向上"
+    },
+    "mode": {
+        "message": "模式"
+    },
+    "dark": {
+        "message": "黑暗"
+    },
+    "light": {
+        "message": "清除"
+    },
+    "store_listing": {
+        "message": "您将享受这种灭绝完全免费，并生成黑暗模式多次，只要你想在所有网站。 黑暗模式反转鲜艳的色彩，使它们对比鲜明，易于阅读，也需要你的设备的生活护理。\n\n暗模式不显示广告，不会在任何地方发送用户信息。 这是完全开源的https://darkmodeextension.com\n\n在安装之前，请关闭类似的扩展。 喜欢看！"
+    }
+}

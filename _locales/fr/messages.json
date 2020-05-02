@@ -1,0 +1,41 @@
+{
+    "extension_description": {
+        "message": "C'est un sujet sombre pour tous les sites que je visite. Économisez votre batterie et prenez soin de vos yeux avec cette fantastique application. Utilisez le mode sombre pour naviguer et obtenir les meilleures performances de votre appareil."
+    },
+    "extension_title": {
+        "message": "Mode noir"
+    },
+    "on": {
+        "message": "Activer"
+    },
+    "off": {
+        "message": "Désactiver"
+    },
+    "toggle_extension": {
+        "message": "Autre extension"
+    },
+    "automation": {
+        "message": "Automatiser"
+    },
+    "set_active_hours": {
+        "message": "Fixer les heures d'activité"
+    },
+    "set_start_hour":{
+        "message": "Tiré de"
+    },
+    "set_stop_hour":{
+        "message": "À l'adresse suivante :"
+    },
+    "mode": {
+        "message": "Mode"
+    },
+    "dark": {
+        "message": "Foncé"
+    },
+    "light": {
+        "message": "claire"
+    },
+    "store_listing": {
+        "message": "Vous pourrez profiter de cette extinction totalement gratuitement, et générer le mode sombre autant de fois que vous le souhaitez sur tous les sites. Le mode sombre inverse les couleurs vives, les rendant contrastées et faciles à lire, et il prend également soin de la durée de vie de votre appareil.\n\nLe mode sombre n'affiche pas de publicité et n'envoie aucune information aux utilisateurs. Il est entièrement open source https://darkmodeextension.com\n\nAvant de l'installer, désactivez les extensions similaires. Bon visionnage!"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "extension_description": {
+        "message": "To je temné téma pro všechny stránky, které navštívíte. Uložit baterie a starat se o svůj pohled s touto fantastickou aplikaci, použijte tmavý režim k navigaci a získat nejlepší výkon z vašeho zařízení."
+    },
+    "extension_title": {
+        "message": "Tmavý Režim"
+    },
+    "on": {
+        "message": "Povolit"
+    },
+    "off": {
+        "message": "Zakázat"
+    },
+    "toggle_extension": {
+        "message": "Přepnout rozšíření"
+    },
+    "automation": {
+        "message": "Automatizovaný"
+    },
+    "set_active_hours": {
+        "message": "Nastavit Aktivní Hodiny"
+    },
+    "set_start_hour":{
+        "message": "Z"
+    },
+    "set_stop_hour":{
+        "message": "Až"
+    },
+    "mode": {
+        "message": "Režim"
+    },
+    "dark": {
+        "message": "Tma"
+    },
+    "light": {
+        "message": "Jasný"
+    },
+    "store_listing": {
+        "message": "Se vám bude líbit tento zánik zcela zdarma, a vytvořit tmavý režim, tolikrát, kolikrát chcete, na všech místech. Tmavý mód obrací jasné barvy, čímž je kontrastní a snadno čitelné, také se stará o život vašeho zařízení.\n\nTmavý režim nezobrazuje reklamu a neodesílá informace o uživateli nikde. Je to plně open source https://darkmodeextension.com\n\nPřed instalací zakažte podobná rozšíření. Užijte si sledování!"
+    }
+}

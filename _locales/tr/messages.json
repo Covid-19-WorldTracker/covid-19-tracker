@@ -1,0 +1,41 @@
+{
+    "extension_description": {
+        "message": "Bu ziyaret ettiğiniz tüm siteler için karanlık bir tema. Pil tasarrufu yapın ve bu fantastik uygulama ile görüşünüze dikkat edin, gezinmek ve cihazınızın en iyi performansını elde etmek için karanlık modu kullanın."
+    },
+    "extension_title": {
+        "message": "Karanlık Mod"
+    },
+    "on": {
+        "message": "Etkinleştirmek"
+    },
+    "off": {
+        "message": "Sakatlamak"
+    },
+    "toggle_extension": {
+        "message": "Uzantısı t togog extensiong extensionle"
+    },
+    "automation": {
+        "message": "Otomatik"
+    },
+    "set_active_hours": {
+        "message": "Aktif Saatleri Ayarla"
+    },
+    "set_start_hour":{
+        "message": "İtibaren"
+    },
+    "set_stop_hour":{
+        "message": "Yukarı"
+    },
+    "mode": {
+        "message": "Modu"
+    },
+    "dark": {
+        "message": "Kara"
+    },
+    "light": {
+        "message": "Açık"
+    },
+    "store_listing": {
+        "message": "Bu neslinin tamamen ücretsiz tadını çıkaracaksınız ve karanlık modu tüm sitelerde istediğiniz kadar üreteceksiniz. Karanlık mod onları zıt ve okunması kolay hale parlak renkler tersine çevirir, aynı zamanda cihazınızın ömrü ilgilenir.\n\nKaranlık mod reklam göstermez ve kullanıcı bilgilerini herhangi bir yere göndermez. Tamamen açık kaynak https://darkmodeextension.com\n\nYüklemeden önce benzer uzantıları kapatın. İzlerken zevk!"
+    }
+}

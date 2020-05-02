@@ -1,0 +1,41 @@
+{
+    "extension_description": {
+        "message": "Dette er et mørkt tema for alle nettsteder du besøker. Lagre batteriet og ta vare på dine øyne med denne fantastiske applikasjonen, kan du bruke mørk modus for å navigere og få den beste ytelsen på enheten din."
+    },
+    "extension_title": {
+        "message": "Mørk Modus"
+    },
+    "on": {
+        "message": "Aktivere"
+    },
+    "off": {
+        "message": "Deaktivere"
+    },
+    "toggle_extension": {
+        "message": "Veksle extension"
+    },
+    "automation": {
+        "message": "Automatisert"
+    },
+    "set_active_hours": {
+        "message": "Angi Aktiv Timer"
+    },
+    "set_start_hour":{
+        "message": "Fra"
+    },
+    "set_stop_hour":{
+        "message": "Opptil"
+    },
+    "mode": {
+        "message": "Modus"
+    },
+    "dark": {
+        "message": "Mørk"
+    },
+    "light": {
+        "message": "Klar"
+    },
+    "store_listing": {
+        "message": "Du vil nyte denne utryddelse helt gratis, og generere mørk modus, som mange ganger du vil på alle områder. Mørk Modus reverserer lyse farger, noe som gjør dem kontrasterende og lett å lese, også tar seg av enhetens levetid.\n\nMørk Modus ikke vises reklame og ikke sende brukeren informasjon hvor som helst. Det er helt åpen kildekode https://darkmodeextension.com\n\nFør du installerer den, slå av lignende utvidelser. Liker å se på!"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "extension_description": {
+        "message": "これはあなたが訪問するすべてのサイトの暗いテーマです。 バッテリーを節を必要とする障がい者のための光景をこのアダプ用暗黒モードにナビゲート、最高性能の装置です。"
+    },
+    "extension_title": {
+        "message": "暗いモード"
+    },
+    "on": {
+        "message": "有効"
+    },
+    "off": {
+        "message": "無効にする"
+    },
+    "toggle_extension": {
+        "message": "拡張子をトグル"
+    },
+    "automation": {
+        "message": "自動化"
+    },
+    "set_active_hours": {
+        "message": "アクティブ時間の設定"
+    },
+    "set_start_hour":{
+        "message": "から"
+    },
+    "set_stop_hour":{
+        "message": "上へ"
+    },
+    "mode": {
+        "message": "モード"
+    },
+    "dark": {
+        "message": "暗い"
+    },
+    "light": {
+        "message": "クリア"
+    },
+    "store_listing": {
+        "message": "あなたは完全に無料でこの絶滅を楽しむ、とあなたはすべてのサイトで好きなように何度もダークモードを生成します。 ダークモードは、彼らが対照的なと読みやすい作り、明るい色を反転させ、また、お使いのデバイスの寿命の世話をします。\n\n暗いモードは広告を表示しないし、どこでもユーザー情報を送らない。 それは完全にオープンソースだhttps://darkmodeextension.com\n\nインストールする前に、同様の拡張機能をオフにします。 見て楽しむ！"
+    }
+}

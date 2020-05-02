@@ -1,0 +1,41 @@
+{
+    "extension_description": {
+        "message": "이 방문하는 모든 사이트에 대한 어두운 테마입니다. 배터리 관리 시 이 환상적인 응용 프로그램과 함께 사용,어두운 모드는 탐색하고 최고 성능의 장치입니다."
+    },
+    "extension_title": {
+        "message": "어두운 형태"
+    },
+    "on": {
+        "message": "활성화"
+    },
+    "off": {
+        "message": "비활성화"
+    },
+    "toggle_extension": {
+        "message": "확장자 보이기/숨기기"
+    },
+    "automation": {
+        "message": "자동화하는"
+    },
+    "set_active_hours": {
+        "message": "활성 시간 설정"
+    },
+    "set_start_hour":{
+        "message": "에서"
+    },
+    "set_stop_hour":{
+        "message": "위로"
+    },
+    "mode": {
+        "message": "모드"
+    },
+    "dark": {
+        "message": "어두운"
+    },
+    "light": {
+        "message": "지우기"
+    },
+    "store_listing": {
+        "message": "당신은 완전 무료이 멸종을 즐길 수 있습니다,당신은 모든 사이트에서 원하는만큼 어두운 모드를 여러 번 생성합니다. 다크 모드는 밝은 색상을 반전,그들을 대조하고 쉽게 읽을 수 있도록,또한 장치의 수명을 처리합니다.\n\n다크 모드는 광고를 표시하지 않으며 어디서나 사용자 정보를 보내지 않습니다. 그것은 완전히 오픈 소스입니다 https://darkmodeextension.com\n\n당신이 그것을 설치하기 전에 유사한 확장을 끕니다. 보고 즐길!"
+    }
+}
